@@ -1,16 +1,78 @@
-## Hi there 👋
+# 👋 Hi, I'm Souhaib Moustajib
 
-<!--
-**smoustaj7/smoustaj7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Software Developer | Computer Science Student | Problem Solver  
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile!  
+I’m passionate about building efficient, clean, and scalable software while continuously improving my technical and problem-solving skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧠 About Me
+
+- 💻 Strong interest in **systems programming**, **algorithms**, and **software engineering**
+- 📚 Currently learning and improving my skills in **C, Python, Linux, and Git**
+- 🔍 Focused on writing **clean, optimized, and well-documented code**
+- 🛠️ Enjoy breaking down complex problems into simple, logical solutions
+- 🌱 Always learning — one commit at a time
+
+---
+
+## 🧰 Tech Stack
+
+**Languages**
+- C
+- Python
+- Shell (Bash)
+
+**Tools & Technologies**
+- Git & GitHub
+- Linux (Debian/Ubuntu)
+- Makefile
+- Virtual Machines (VirtualBox)
+
+**Concepts**
+- Data Structures & Algorithms
+- Memory Management
+- Object-Oriented Programming (OOP)
+- System-Level Programming
+- Debugging & Optimization
+
+---
+
+## 📂 Featured Projects
+
+🔹 **push_swap**  
+Efficient sorting algorithm project focusing on optimization and minimal instructions.
+
+🔹 **libft**  
+Custom C standard library implementation to strengthen low-level programming skills.
+
+🔹 **Born2beroot**  
+Linux system administration project covering virtualization, security, and automation.
+
+> 📌 More projects available in my repositories — feel free to explore!
+
+---
+
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
+
+---
+
+## 🤝 Let’s Connect
+
+- 💼 GitHub: [https://github.com/YOUR_USERNAME](https://github.com/YOUR_USERNAME)
+- 📧 Email: your.email@example.com
+- 🌍 Location: Morocco
+
+---
+
+## ✨ Philosophy
+
+> *“Write code as if the next person to maintain it is a violent psychopath who knows where you live.”*  
+> — John Woods
+
+Thanks for stopping by! ⭐  
+If you like what you see, feel free to star a repo or reach out.
