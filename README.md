@@ -41,6 +41,11 @@ I’m passionate about building efficient, clean, and scalable software while co
 
 ## 📂 Featured Projects
 
+🔹 **a_maze_ing**
+A-Maze-ing is a terminal-based Python application designed to generate, solve, and visualize complex mazes. It combines algorithmic logic with real-time terminal rendering to transform abstract data structures into an interactive visual experience.
+
+At its core, the project is an exploration of graph theory and procedural generation, using classic algorithms to create "perfect" mazes (where every cell is reachable and there are no loops).
+
 🔹 **push_swap**  
 Efficient sorting algorithm project focusing on optimization and minimal instructions.
 
