@@ -52,14 +52,7 @@ Linux system administration project covering virtualization, security, and autom
 
 > 📌 More projects available in my repositories — feel free to explore!
 
----
 
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
-
----
 
 ## 🤝 Let’s Connect
 
