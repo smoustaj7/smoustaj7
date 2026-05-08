@@ -24,12 +24,6 @@ I’m passionate about building efficient, clean, and scalable software while co
 - Python
 - Shell (Bash)
 
-**Tools & Technologies**
-- Git & GitHub
-- Linux (Debian/Ubuntu)
-- Makefile
-- Virtual Machines (VirtualBox)
-
 **Concepts**
 - Data Structures & Algorithms
 - Memory Management
