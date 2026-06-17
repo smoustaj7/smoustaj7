@@ -55,7 +55,7 @@ Linux system administration project covering virtualization, security, and autom
 
 ## 🤝 Let’s Connect
 
-- 💼 GitHub: [https://github.com/smoustaj7](https://github.com/smoustaj7)
+- 💼 Linkedin: https://www.linkedin.com/in/smoustaj
 - 📧 Email: souhaibmoustajib@gmail.com
 - 🌍 Location: Morocco
 
