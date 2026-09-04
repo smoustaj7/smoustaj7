@@ -1,5 +1,18 @@
+[![smoustaj's 42 stats](https://badge.mediaplus.ma/greenbinary/smoustaj)](https://github.com/oakoudad/badge42)
 ## 👋 Hi, I'm Souhaib Moustajib<br><br>🚀 Software Developer | Computer Science Student | Problem Solver
-<br><br>**Welcome to my GitHub profile!**  <br><br>🧠 *About Me*:<br><br>- 💻 Strong interest in **systems programming**, **algorithms**, and **software engineering**<br>- 📚 Currently learning and improving my skills in **C, Python, Linux, and Git**<br>- 🔍 Focused on writing **clean, optimized, and well-documented code**<br>- 🛠️ Enjoy breaking down complex problems into simple, logical solutions<br>- 🌱 Always learning — one commit at a time<br><br>---<br><br>🧰 *Tech Stack*<br><br>Data Structures & Algorithms<br>- Memory Management<br>- Object-Oriented Programming (OOP)<br>- AI and machine learning<br>- System-Level Programming<br>- Debugging & Optimization<br><br>---<br><br>📂 *Featured Projects*<br><br>🔹 **a_maze_ing**  <br>A-Maze-ing is a terminal-based Python application designed to generate, solve, and visualize complex mazes. It combines algorithmic logic with real-time terminal rendering to transform abstract data structures into an interactive visual experience.<br><br>At its core, the project is an exploration of graph theory and procedural generation, using classic algorithms to create "perfect" mazes (where every cell is reachable and there are no loops).<br><br>🔹 **push_swap**  <br>Efficient sorting algorithm project focusing on optimization and minimal instructions.<br><br>🔹 **libft**  <br>Custom C standard library implementation to strengthen low-level programming skills.<br><br>> 📌 More projects available in my repositories — feel free to explore!<br><br>---<br><br>✨ Philosophy<br><br>> *“Write code as if the next person to maintain it is a violent psychopath who knows where you live.”*  <br>> — John Woods<br><br>Thanks for stopping by! ⭐  <br>If you like what you see, feel free to star a repo or reach out.<br>
+
+Software engineering student at 1337 (42 Network), building projects in **systems programming, algorithms, and C/Python**. I like breaking problems down into clean, well-documented solutions — one commit at a time.
+
+**Stack:** C · Python · Linux · Git · Data Structures & Algorithms · Memory Management · OOP · Debugging & Optimization
+
+**Featured projects**
+- 🔹 [**a_maze_ing**](#) — terminal-based maze generator/solver exploring graph theory and procedural generation
+- 🔹 [**push_swap**](#) — sorting algorithm optimized for minimal instructions
+- 🔹 [**libft**](#) — custom C standard library, built from scratch
+
+> More in my repos — feel free to explore ⭐
+
+> *"Write code as if the next person to maintain it is a violent psychopath who knows where you live."* — John Woods
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/smoustaj) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:souhaibmoustajib@gmail.com) 
