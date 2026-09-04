@@ -11,5 +11,6 @@
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=smoustaj7&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=smoustaj7&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) <br>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=smoustaj7&theme=dark)](https://git.io/streak-stats)
 ---
